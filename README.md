@@ -1,2 +1,3 @@
 # projeto_site
- Projeto de um site de cadastro usando Django
+ Primeiro site feito!
+ Projeto de um site de cadastro usando Django!
